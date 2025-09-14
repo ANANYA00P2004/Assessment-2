@@ -120,12 +120,4 @@ Modern businesses deploy budgets across various digital and direct channels (Fac
 
 ---
 
-## License
 
-Distributed under the MIT License. See `LICENSE` for more details.
-
----
-
-## Contact
-
-For questions, consult the [README instructions] or contact the original author.
